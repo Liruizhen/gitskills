@@ -1,0 +1,32 @@
+.box{ margin: 0 auto;  font-size: 12px/150% Arial,Verdana,"宋体";}
+
+
+.top_banner_big{ margin: 0 auto; position: relative; text-align: center;}
+.top_banner{ width: 100%; height: 80px; margin: 0 auto; 
+background:url(../img/shunTop1.jpg) no-repeat top center;}
+.top_banner_big span{ display: block; position: absolute; top: 5px; left:50%; 
+margin-left: 575px; width: 25px; height: 16px; cursor: pointer;
+ background: url(../img/top_banner2.png) no-repeat center center;}
+
+
+.banner_big{ width: 100%; height: 480px;}
+.banner{ width: 1200px; height:480px; margin: 0 auto; overflow: hidden;
+		position: relative;}
+.banner .banner_box{width:1000px; height: 480px; float: right;
+		 position:relative; overflow: hidden;}
+.banner .banner_center{ width:8000px; height: 480px; position: absolute;}
+.banner .banner_center a{ display: block; float: left;}
+
+.banner .banner_right{ width: 260px; height: auto; right: 0;
+		 z-index: 10; position: absolute; right: 0; top: 0;}
+.banner .banner_right a{ display: block; width: 260px; height: auto;}
+.banner .banner_right a img{width: 260px; height: auto;}
+
+.banner .slide_wrap{ position: absolute; bottom: 10px; left: 50%; margin-left:-140px;}
+.banner .slide_wrap li{ float: left; display: block; width: 25px; height: 25px;
+		cursor: pointer; background: #646464; text-align: center;
+		line-height: 25px; color: #fff; margin-right:10px ; border-radius:50px;}
+
+
+
+
