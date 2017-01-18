@@ -1,2 +1,2 @@
 i am a one dev
-plase add me
+Creating a new branch is quick & simple.
